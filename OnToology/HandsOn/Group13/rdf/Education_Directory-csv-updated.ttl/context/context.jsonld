@@ -1,0 +1,37 @@
+{
+  "@context" : {
+    "pertainToSchoolDistrict" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#pertainToSchoolDistrict"
+    },
+    "leiCode" : {
+      "@id" : "http://schema.org/leiCode"
+    },
+    "hasOrganizationType" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasOrganizationType"
+    },
+    "long" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#long"
+    },
+    "SchoolDistrict" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#SchoolDistrict"
+    },
+    "tel" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#tel"
+    },
+    "name" : {
+      "@id" : "http://xmlns.com/foaf/0.1/name"
+    },
+    "streetAddress" : {
+      "@id" : "http://schema.org/streetAddress"
+    },
+    "lat" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#lat"
+    },
+    "zipCode" : {
+      "@id" : "http://dbpedia.org/ontology/zipCode"
+    },
+    "School" : {
+      "@id" : "http://schema.org/School"
+    }
+  }
+}

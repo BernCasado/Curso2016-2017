@@ -1,0 +1,117 @@
+{
+  "@context" : {
+    "pertainToSchoolDistrict" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#pertainToSchoolDistrict",
+      "@type" : "@id"
+    },
+    "leiCode" : {
+      "@id" : "http://schema.org/leiCode",
+      "@type" : "http://schema.org/Text"
+    },
+    "url" : {
+      "@id" : "http://schema.org/url",
+      "@type" : "http://schema.org/URL"
+    },
+    "hasParkFacilityType" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasParkFacilityType"
+    },
+    "hasOrganizationType" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasOrganizationType"
+    },
+    "isNatureCenter" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#isNatureCenter",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "hasHealthFacilityType" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasHealthFacilityType"
+    },
+    "long" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#long",
+      "@type" : "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "SchoolDistrict" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#SchoolDistrict"
+    },
+    "hasCampZone" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasCampZone",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "tel" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#tel",
+      "@type" : "http://www.w3.org/2006/vcard/ns#text"
+    },
+    "borough" : {
+      "@id" : "http://dbpedia.org/ontology/borough",
+      "@type" : "@id"
+    },
+    "county" : {
+      "@id" : "http://dbpedia.org/ontology/county",
+      "@type" : "@id"
+    },
+    "name" : {
+      "@id" : "http://xmlns.com/foaf/0.1/name",
+      "@type" : "http://www.w3.org/2000/01/rdf-schema#Literal"
+    },
+    "HealthFacility" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#HealthFacility"
+    },
+    "SubwayEntrance" : {
+      "@id" : "http://linkedgeodata.org/page/ontology/SubwayEntrance"
+    },
+    "Library" : {
+      "@id" : "http://schema.org/Library"
+    },
+    "hasGolfCourse" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasGolfCourse",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "hasHouseNumber" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasHouseNumber"
+    },
+    "streetAddress" : {
+      "@id" : "http://schema.org/streetAddress",
+      "@type" : "http://schema.org/Text"
+    },
+    "term-Neighborhood" : {
+      "@id" : "http://rdfs.co/juso/latest/html#term-Neighborhood"
+    },
+    "hasPlayGround" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasPlayGround",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "lat" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#lat",
+      "@type" : "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "zipCode" : {
+      "@id" : "http://dbpedia.org/ontology/zipCode",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "StateParkFacility" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#StateParkFacility"
+    },
+    "School" : {
+      "@id" : "http://schema.org/School"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "County" : {
+      "@id" : "http://data.ordnancesurvey.co.uk/ontology/admingeo/County"
+    },
+    "pertainToSubwayLine" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#pertainToSubwayLine",
+      "@type" : "@id"
+    },
+    "Borough" : {
+      "@id" : "http://data.ordnancesurvey.co.uk/ontology/admingeo/Borough"
+    },
+    "hasBeach" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasBeach",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "SubwayLine" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#SubwayLine"
+    }
+  }
+}

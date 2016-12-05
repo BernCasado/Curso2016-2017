@@ -1,0 +1,25 @@
+{
+  "@context" : {
+    "long" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#long"
+    },
+    "lat" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#lat"
+    },
+    "name" : {
+      "@id" : "http://xmlns.com/foaf/0.1/name"
+    },
+    "pertainToSubwayLine" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#pertainToSubwayLine"
+    },
+    "url" : {
+      "@id" : "http://schema.org/url"
+    },
+    "SubwayEntrance" : {
+      "@id" : "http://linkedgeodata.org/page/ontology/SubwayEntrance"
+    },
+    "SubwayLine" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#SubwayLine"
+    }
+  }
+}
