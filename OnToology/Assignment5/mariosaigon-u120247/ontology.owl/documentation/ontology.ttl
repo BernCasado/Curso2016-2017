@@ -1,0 +1,316 @@
+@prefix :        <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs:    <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:     <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+[]    a       owl:Ontology ;
+      owl:ClassAssertion
+              [ a       owl:Class ;
+                <IRI>   "City"
+              ] ;
+      owl:DataPropertyAssertion
+              [ a       owl:DataProperty ;
+                <IRI>   "hasPopulation"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGNPOld"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasRegion"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasPopulation"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasID"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasPopulation"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasSurfaceArea"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasHeadOfState"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasDistrict"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGNP"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasIndepYear"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGovernmentForm"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasName"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasPercentage"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasIsOfficial"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLifeExpectancy"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLanguage"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLocalName"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCode2"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasName"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCode"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCountryCode"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCapital"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "belongstoContinent"
+              ] ;
+      owl:DataPropertyDomain
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCountryCode"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasIndepYear"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasIsOfficial"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLanguage"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGovernmentForm"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasPercentage"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasName"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasHeadOfState"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLifeExpectancy"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLocalName"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasSurfaceArea"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasDistrict"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCode2"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasPopulation"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGNP"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGNPOld"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCode"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCountryCode"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasRegion"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "belongstoContinent"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCapital"
+              ] ;
+      owl:DataPropertyRange
+              [ a       owl:DataProperty ;
+                <IRI>   "hasID"
+              ] ;
+      owl:Declaration
+              [ a       owl:Class ;
+                <IRI>   "CountryLanguage"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGovernmentForm"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasName"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "belongstoContinent"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasIsOfficial"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasHeadOfState"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasPopulation"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCode2"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGNP"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLanguage"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasID"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasRegion"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasPercentage"
+              ] ;
+      owl:Declaration
+              [ a       owl:Class ;
+                <IRI>   "Country"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCountryCode"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasGNPOld"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLocalName"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasLifeExpectancy"
+              ] ;
+      owl:Declaration
+              [ a       owl:NamedIndividual ;
+                <IRI>   "Kabul"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasSurfaceArea"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCapital"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasIndepYear"
+              ] ;
+      owl:Declaration
+              [ a       owl:Class ;
+                <IRI>   "City"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasDistrict"
+              ] ;
+      owl:Declaration
+              [ a       owl:DataProperty ;
+                <IRI>   "hasCode"
+              ] ;
+      owl:Prefix
+              [ <IRI>   "http://www.w3.org/1999/02/22-rdf-syntax-ns#" ;
+                <name>  "rdf"
+              ] ;
+      owl:Prefix
+              [ <IRI>   "http://www.w3.org/XML/1998/namespace" ;
+                <name>  "xml"
+              ] ;
+      owl:Prefix
+              [ <IRI>   "http://www.w3.org/2000/01/rdf-schema#" ;
+                <name>  "rdfs"
+              ] ;
+      owl:Prefix
+              [ <IRI>   "http://www.w3.org/2002/07/owl#" ;
+                <name>  "owl"
+              ] ;
+      owl:Prefix
+              [ <IRI>   "http://www.w3.org/2001/XMLSchema#" ;
+                <name>  "xsd"
+              ] ;
+      <ontologyIRI> "http://example.linkeddata.es/" .

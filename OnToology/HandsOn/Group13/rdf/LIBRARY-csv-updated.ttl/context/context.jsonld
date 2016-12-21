@@ -1,0 +1,34 @@
+{
+  "@context" : {
+    "url" : {
+      "@id" : "http://schema.org/url"
+    },
+    "long" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#long"
+    },
+    "label" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+    },
+    "name" : {
+      "@id" : "http://xmlns.com/foaf/0.1/name"
+    },
+    "Library" : {
+      "@id" : "http://schema.org/Library"
+    },
+    "hasHouseNumber" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasHouseNumber"
+    },
+    "streetAddress" : {
+      "@id" : "http://schema.org/streetAddress"
+    },
+    "lat" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#lat"
+    },
+    "zipCode" : {
+      "@id" : "http://dbpedia.org/ontology/zipCode"
+    },
+    "Borough" : {
+      "@id" : "http://dbpedia.org/ontology/Borough"
+    }
+  }
+}

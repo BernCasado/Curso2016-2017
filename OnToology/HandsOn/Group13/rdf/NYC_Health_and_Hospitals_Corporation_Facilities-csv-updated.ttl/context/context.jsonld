@@ -1,0 +1,34 @@
+{
+  "@context" : {
+    "hasHealthFacilityType" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#hasHealthFacilityType"
+    },
+    "long" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#long"
+    },
+    "label" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#label"
+    },
+    "tel" : {
+      "@id" : "http://www.w3.org/2006/vcard/ns#tel"
+    },
+    "borough" : {
+      "@id" : "http://dbpedia.org/ontology/borough"
+    },
+    "name" : {
+      "@id" : "http://xmlns.com/foaf/0.1/name"
+    },
+    "HealthFacility" : {
+      "@id" : "http://www.linkedData_Group13.com/ontology/livingPlaces#HealthFacility"
+    },
+    "streetAddress" : {
+      "@id" : "http://schema.org/streetAddress"
+    },
+    "lat" : {
+      "@id" : "http://www.w3.org/2003/01/geo/wgs84_pos#lat"
+    },
+    "Borough" : {
+      "@id" : "http://data.ordnancesurvey.co.uk/ontology/admingeo/Borough"
+    }
+  }
+}

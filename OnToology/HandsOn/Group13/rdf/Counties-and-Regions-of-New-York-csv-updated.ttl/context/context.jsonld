@@ -1,0 +1,10 @@
+{
+  "@context" : {
+    "name" : {
+      "@id" : "http://xmlns.com/foaf/0.1/name"
+    },
+    "County" : {
+      "@id" : "http://data.ordnancesurvey.co.uk/ontology/admingeo/County"
+    }
+  }
+}

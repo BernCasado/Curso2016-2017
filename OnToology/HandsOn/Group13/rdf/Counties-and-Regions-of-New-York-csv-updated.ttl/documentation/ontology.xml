@@ -1,0 +1,258 @@
+<rdf:RDF
+    xmlns:osadm="http://data.ordnancesurvey.co.uk/ontology/admingeo/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:livingPlaces="http://www.linkedData_Group13.com/ontology/livingPlaces#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" > 
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Tompkins">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Tompkins</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Greene">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Greene</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Orleans">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Orleans</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Putnam">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Putnam</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Westchester">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Westchester</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Suffolk">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Suffolk</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/St.+Lawrence">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">St. Lawrence</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Rensselaer">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Rensselaer</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Genesee">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Genesee</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Franklin">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Franklin</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Washington">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Washington</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Wyoming">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Wyoming</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Yates">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Yates</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Herkimer">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Herkimer</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Nassau">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Nassau</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Seneca">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Seneca</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Orange">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Orange</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Saratoga">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Saratoga</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Clinton">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Clinton</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Chenango">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Chenango</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Wayne">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Wayne</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Livingston">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Livingston</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Steuben">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Steuben</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Tioga">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Tioga</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Rockland">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Rockland</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Schuyler">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Schuyler</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Onondaga">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Onondaga</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Erie">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Erie</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Otsego">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Otsego</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Ontario">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Ontario</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Bronx">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Bronx</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Chautauqua">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Chautauqua</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Albany">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Albany</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Schoharie">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Schoharie</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Dutchess">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Dutchess</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Delaware">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Delaware</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Niagara">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Niagara</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Queens">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Queens</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Columbia">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Columbia</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Oswego">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Oswego</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Warren">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Warren</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/New+York">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">New York</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Sullivan">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Sullivan</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Cattaraugus">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Cattaraugus</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Fulton">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Fulton</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Madison">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Madison</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Richmond">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Richmond</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Monroe">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Monroe</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Hamilton">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Hamilton</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Cayuga">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Cayuga</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Oneida">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Oneida</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Jefferson">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Jefferson</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Cortland">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Cortland</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Ulster">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Ulster</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Essex">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Essex</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Lewis">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Lewis</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Schenectady">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Schenectady</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Montgomery">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Montgomery</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Allegany">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Allegany</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Kings">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Kings</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Chemung">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Chemung</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.linkedData_Group13.com/resource/Broome">
+    <foaf:name rdf:datatype="http://www.w3.org/2000/01/rdf-schema#Literal">Broome</foaf:name>
+    <rdf:type rdf:resource="http://data.ordnancesurvey.co.uk/ontology/admingeo/County"/>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,97 @@
+{
+  "@context" : {
+    "hasLocalName" : {
+      "@id" : "http://example.linkeddata.es/hasLocalName",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hasCode" : {
+      "@id" : "http://example.linkeddata.es/hasCode",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hasGovernmentForm" : {
+      "@id" : "http://example.linkeddata.es/hasGovernmentForm",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hasDistrict" : {
+      "@id" : "http://example.linkeddata.es/hasDistrict",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "Country" : {
+      "@id" : "http://example.linkeddata.es/Country"
+    },
+    "hasName" : {
+      "@id" : "http://example.linkeddata.es/hasName",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "belongstoContinent" : {
+      "@id" : "http://example.linkeddata.es/belongstoContinent",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hasLifeExpectancy" : {
+      "@id" : "http://example.linkeddata.es/hasLifeExpectancy",
+      "@type" : "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "hasID" : {
+      "@id" : "http://example.linkeddata.es/hasID",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "hasPercentage" : {
+      "@id" : "http://example.linkeddata.es/hasPercentage",
+      "@type" : "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "hasCode2" : {
+      "@id" : "http://example.linkeddata.es/hasCode2",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hasPopulation" : {
+      "@id" : "http://example.linkeddata.es/hasPopulation",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "hasGNP" : {
+      "@id" : "http://example.linkeddata.es/hasGNP",
+      "@type" : "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "hasIndepYear" : {
+      "@id" : "http://example.linkeddata.es/hasIndepYear",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "hasSurfaceArea" : {
+      "@id" : "http://example.linkeddata.es/hasSurfaceArea",
+      "@type" : "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "CountryLanguage" : {
+      "@id" : "http://example.linkeddata.es/CountryLanguage"
+    },
+    "hasGNPOld" : {
+      "@id" : "http://example.linkeddata.es/hasGNPOld",
+      "@type" : "http://www.w3.org/2001/XMLSchema#float"
+    },
+    "hasCountryCode" : {
+      "@id" : "http://example.linkeddata.es/hasCountryCode",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hasIsOfficial" : {
+      "@id" : "http://example.linkeddata.es/hasIsOfficial",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "City" : {
+      "@id" : "http://example.linkeddata.es/City"
+    },
+    "hasLanguage" : {
+      "@id" : "http://example.linkeddata.es/hasLanguage",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hasCapital" : {
+      "@id" : "http://example.linkeddata.es/hasCapital",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "hasHeadOfState" : {
+      "@id" : "http://example.linkeddata.es/hasHeadOfState",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    },
+    "hasRegion" : {
+      "@id" : "http://example.linkeddata.es/hasRegion",
+      "@type" : "http://www.w3.org/2001/XMLSchema#string"
+    }
+  }
+}
